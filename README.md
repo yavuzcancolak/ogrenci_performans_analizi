@@ -6,7 +6,7 @@ Bu proje, 12. sınıf sayısal bölüm öğrencilerinin ders başarılarını an
 
 ## 📁 Klasör Yapısı
 
-ogrenci_performans_analizi/
+'''ogrenci_performans_analizi/
 ├── 01_notebook_veri_uretimi/
 │   └── veri_uretimi_kodu.ipynb
 ├── 02_veri_dosyaları/
@@ -20,7 +20,7 @@ ogrenci_performans_analizi/
 │   ├── Branslara_Gore_Ogrenci_Performans_Oranlari.png
 │   ├── Cinsiyete_Gore_Ortalamalarin_Toplami.png
 │   └── En_Basarili_5_Ogrenci.png
-└── README.md
+└── README.md'''
 
 
 
@@ -52,15 +52,15 @@ ogrenci_performans_analizi/
 ## 📊 Grafikler
 
 ### 📌 Cinsiyete Göre Ortalamaların Toplamı
-![Cinsiyete Göre](grafikler/Cinsiyete_Gore_Ortalamalarin_Toplami.png)
+![Cinsiyete Göre](05_grafikler/Cinsiyete_Gore_Ortalamalarin_Toplami.png)
 
 
 ### 📌 Branşlara Göre Öğrenci Performans Oranları
-![Branşlara Göre](grafikler/Branslara_Gore_Performans_Oranlari.png)
+![Branşlara Göre](05_grafikler/Branslara_Gore_Performans_Oranlari.png)
 
 
 ### 📌 En Başarılı 5 Öğrenci
-![En Başarılı 5](grafikler/En_Basarili_5_Ogrenci.png)
+![En Başarılı 5](05_grafikler/En_Basarili_5_Ogrenci.png)
 
 
 ## 👤 Hazırlayan
