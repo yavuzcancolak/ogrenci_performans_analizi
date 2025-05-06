@@ -56,7 +56,7 @@ Bu proje, 12. sınıf sayısal bölüm öğrencilerinin ders başarılarını an
 
 
 ### 📌 Branşlara Göre Öğrenci Performans Oranları
-![Branşlara Göre](05_grafikler/Branslara_Gore_Performans_Oranlari.png)
+![Branşlara Göre](05_grafikler/Branslara_Gore_Ogrenci_Performans_Oranlari.png)
 
 
 ### 📌 En Başarılı 5 Öğrenci
